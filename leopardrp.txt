@@ -1,0 +1,8 @@
+
+"leopardrp"
+{
+	"base" 			"helix"
+	"title" 		"Star Trek RP"
+	"author" 		"Drfluff"
+	"menusystem"	"1"
+}
